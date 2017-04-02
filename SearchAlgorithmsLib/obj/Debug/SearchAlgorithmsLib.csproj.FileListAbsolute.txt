@@ -3,3 +3,6 @@ C:\Users\IDO1\Documents\Visual Studio 2017\Projects\Ex1\SearchAlgorithmsLib\bin\
 C:\Users\IDO1\Documents\Visual Studio 2017\Projects\Ex1\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.dll
 C:\Users\IDO1\Documents\Visual Studio 2017\Projects\Ex1\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.pdb
 C:\Users\IDO1\Documents\Visual Studio 2017\Projects\Ex1\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.csprojResolveAssemblyReference.cache
+C:\Users\IDO1\Source\Repos\Adv2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.csprojResolveAssemblyReference.cache
+C:\Users\IDO1\Source\Repos\Adv2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.dll
+C:\Users\IDO1\Source\Repos\Adv2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.pdb

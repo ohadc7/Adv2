@@ -8,3 +8,13 @@ c:\users\ido1\documents\visual studio 2017\Projects\Ex1\Ex1\obj\Debug\Ex1.exe
 c:\users\ido1\documents\visual studio 2017\Projects\Ex1\Ex1\obj\Debug\Ex1.pdb
 C:\Users\IDO1\Documents\Visual Studio 2017\Projects\Ex1\Ex1\bin\Debug\SearchAlgorithmsLib.dll
 C:\Users\IDO1\Documents\Visual Studio 2017\Projects\Ex1\Ex1\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\IDO1\Source\Repos\Adv2\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\IDO1\Source\Repos\Adv2\Ex1\bin\Debug\Ex1.exe
+C:\Users\IDO1\Source\Repos\Adv2\Ex1\bin\Debug\Ex1.pdb
+C:\Users\IDO1\Source\Repos\Adv2\Ex1\bin\Debug\MazeGeneratorLib.dll
+C:\Users\IDO1\Source\Repos\Adv2\Ex1\bin\Debug\MazeLib.dll
+C:\Users\IDO1\Source\Repos\Adv2\Ex1\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\IDO1\Source\Repos\Adv2\Ex1\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\IDO1\Source\Repos\Adv2\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\Users\IDO1\Source\Repos\Adv2\Ex1\obj\Debug\Ex1.exe
+C:\Users\IDO1\Source\Repos\Adv2\Ex1\obj\Debug\Ex1.pdb
