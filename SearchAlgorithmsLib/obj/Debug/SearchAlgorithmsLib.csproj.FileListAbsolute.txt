@@ -1,0 +1,5 @@
+C:\Users\IDO1\Documents\Visual Studio 2017\Projects\Ex1\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\IDO1\Documents\Visual Studio 2017\Projects\Ex1\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\IDO1\Documents\Visual Studio 2017\Projects\Ex1\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.dll
+C:\Users\IDO1\Documents\Visual Studio 2017\Projects\Ex1\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.pdb
+C:\Users\IDO1\Documents\Visual Studio 2017\Projects\Ex1\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.csprojResolveAssemblyReference.cache
